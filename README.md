@@ -3,10 +3,10 @@ Linear regression, multinear regression, logistic regression
 This work describes, analyzes and interprets the public database of the Ministry ofProduction of the Argentine Nation.
 Information is available since 1996. In addition, an update is made monthly of gas production and gas distribution of each distributor throughout from the country.
 The objectives of this activity are:
-● Describe and statistically analyze a data set.
-● Estimate and validate different regression models.
-● Draw conclusions from the statistical analysis carried out.
-● Communicate these conclusions.
+* Statistically describe a data set.
+* Estimate and validate different regression models.
+* Draw conclusions from the statistical analysis.
+* Communicate these conclusions.
 ![9](https://github.com/marielabvargas/regression/assets/1233695/6207e500-3046-4210-aec9-bc3317434e1e)
 ![10](https://github.com/marielabvargas/regression/assets/1233695/7f252d4a-a8de-483e-9381-7d8ce99e2462)
 ![11](https://github.com/marielabvargas/regression/assets/1233695/a638f345-7a5e-46b4-95bc-ee2f6623868f)
